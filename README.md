@@ -4,3 +4,7 @@ This is a basic tic tac toe game where the player who choose the 'O' starts the 
 Just run the main.py 
 
 You will be asked to enter accordingly enjoy the game :}
+
+For now it is a 2 player game 
+
+no Ai in this
