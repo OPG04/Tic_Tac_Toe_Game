@@ -8,6 +8,6 @@ def display_board(board):
     # Display the board
     list_ = [0, 3, 6]
     for i in list_:
-        print("  " + board[i] + " | " + board[i+1] + " | " + board[i+2])  # Row content
+        print("  " + board[i] + " | " + board[i+1] + " | " + board[i+2] + f"    {i} , {i+1} , {i+2}  ")  # Row content
     print("\n")
 display_board(board)
